@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { students } from "./studentsdata";
-
+import "./App.css";
 function App() {
   const [studentClass, setStudentClass] = useState("");
   const [password, setPassword] = useState("");
@@ -29,32 +29,42 @@ function App() {
 
   return (
     <div className="p-6 flex flex-col items-center">
-      <h1 className="text-2xl font-bold mb-4">Student Result Portal</h1>
+      <h1 className="text-2xl font-bold mb-4">BMHS Student Result Portal</h1>
+      <h2>July Monthly Test Report 2025-26</h2>
 
       {!reportImage && (
         <form
           onSubmit={handleSubmit}
           className="space-y-4 bg-white shadow p-4 rounded w-80"
         >
+          <label htmlFor="student-class">Enter your child's class : </label>
           <input
-            className="border p-2 w-full"
-            placeholder="Class (e.g., 10)"
+            className="student-name" required
+            placeholder="Class (e.g., 10,SKG,etc.)"
             value={studentClass}
             onChange={(e) => setStudentClass(e.target.value)}
           />
+          <br />
+          <br />
+          <label htmlFor="student-password">Enter your password:</label>
           <input
-            className="border p-2 w-full"
+            className="student-password" required
             type="password"
             placeholder="Password"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
+          <br/>
+          <br />
+          <label htmlFor="student-dob">Enter your child's dob : </label>
           <input
-            className="border p-2 w-full"
+            className="border p-2 w-full" required
             type="date"
             value={dob}
             onChange={(e) => setDob(e.target.value)}
           />
+          <br />
+          <br />
           <button
             type="submit"
             className="bg-blue-600 text-white w-full p-2 rounded"
@@ -66,8 +76,14 @@ function App() {
       )}
 
       {reportImage && (
-        <div className="mt-6">
-          <img src={reportImage} alt="Student Report" className="border shadow" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
+        <div>
+          <div className="notice-board">
+            <h2>Notice to Parents:</h2>
+            <p>To access your child's progress report, please enter the <u>correct class/standard</u> when prompted. Without the correct standard, the report will remain hidden.</p>
+          </div>
+          <div className="mt-6">
+            <img src={reportImage} alt="Student Report" className="border shadow" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
+          </div>
         </div>
       )}
     </div>
