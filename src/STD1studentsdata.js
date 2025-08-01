@@ -350,7 +350,7 @@ export const students = [
   {
     class:"1",
     password:"BMHSYOHI",
-    dob:"2017-07-15",
+    dob:"",
     image:"/reports/dummypage-pic.jpg"
   }
 ]
