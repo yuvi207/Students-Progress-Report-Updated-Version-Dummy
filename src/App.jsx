@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <div className="p-6 flex flex-col items-center">
+    <div>
       <h1 className="heading"><abbr title="BMSAP">Beula Matric's Students' Academic Progress</abbr></h1>
       {!reportImage && (
         <div>
