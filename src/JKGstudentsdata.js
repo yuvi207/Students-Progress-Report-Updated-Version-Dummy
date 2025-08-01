@@ -1,204 +1,204 @@
 export const students = [
   {
-    class: "3",
+    class: "JKG",
     password: "BMHSABIN",
     dob: "",
     image: "/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSAHAM",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSARJI",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSATHI",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSDHAR",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSDHRI",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSDIYA",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSDURA",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSGOPI",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class: "3",
+    class: "JKG",
     password: "BMHSLAKS",
     dob: "",
     image: "/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSLAKS",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSNAVY",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSPRAV",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSPREE",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSRAPI",
     dob:" ",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSREYA",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSRIDH",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSRITH",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class: "3",
+    class: "JKG",
     password: "BMHSRITH",
     dob: "",
     image: "/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSAHI",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSANA",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSARV",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSARV",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSATV",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSHAI",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSHAR",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSHER",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSHIV",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class: "3",
+    class: "JKG",
     password: "BMHSSHIV",
     dob: "",
     image: "/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSRIS",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSSUBA",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSTAUF",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSYASW",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
   },
   {
-    class:"3",
+    class:"JKG",
     password:"BMHSYAVA",
     dob:"",
     image:"/reports/dummypage-pic.jpg"
