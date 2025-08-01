@@ -29,9 +29,7 @@ function App() {
 
   return (
     <div className="p-6 flex flex-col items-center">
-      <h1 className="text-2xl font-bold mb-4">BMHS Student Result Portal</h1>
-      <h2>July Monthly Test Report 2025-26</h2>
-
+      <h1 className="heading"><abbr title="BMSAP">Beula Matric's Students' Academic Progress</abbr></h1>
       {!reportImage && (
         <form
           onSubmit={handleSubmit}

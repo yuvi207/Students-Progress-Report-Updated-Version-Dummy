@@ -5,3 +5,18 @@
     padding: 2rem;
     border-radius: 2rem;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+abbr{
+    text-decoration: unset;
+    cursor:pointer;
+}
+abbr:hover{
+    color:navajowhite;
+}
+@media screen and (max-width:320px){
+    .heading{
+        font-size:18px;
+    }
+}
