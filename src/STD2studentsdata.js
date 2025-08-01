@@ -416,13 +416,7 @@ export const students = [
   {
     class:"2",
     password:"BMHSYOJI",
-    dob:"",
-    image:"/reports/dummypage-pic.jpg"
-  },
-  {
-    class:"SKG",
-    password:"BMHSYUVA",
-    dob:"",
+    dob:"2002-02-07",
     image:"/reports/dummypage-pic.jpg"
   }
 ]
