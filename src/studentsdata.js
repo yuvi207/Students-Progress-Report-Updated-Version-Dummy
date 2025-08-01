@@ -257,5 +257,4 @@ export const students = [
     dob:"2018-05-31",
     image:"/reports/dummypage-pic.jpg"
   }
-  // Add all students here
 ];

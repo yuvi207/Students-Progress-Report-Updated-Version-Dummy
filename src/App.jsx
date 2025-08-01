@@ -31,7 +31,8 @@ function App() {
     <div className="p-6 flex flex-col items-center">
       <h1 className="heading"><abbr title="BMSAP">Beula Matric's Students' Academic Progress</abbr></h1>
       {!reportImage && (
-        <form
+        <div>
+      <form
           onSubmit={handleSubmit}
           className="space-y-4 bg-white shadow p-4 rounded w-80"
         >
@@ -71,16 +72,17 @@ function App() {
           </button>
           {error && <p className="text-red-600 text-sm">{error}</p>}
         </form>
+        <div className="notice-board">
+            <h2>Notice to Parents:</h2>
+            <p>To access your child's progress report, please enter the <u>correct class/standard</u> when prompted. Without the correct standard, the report will remain hidden.</p>
+          </div>
+        </div>
       )}
 
       {reportImage && (
         <div>
-          <div className="notice-board">
-            <h2>Notice to Parents:</h2>
-            <p>To access your child's progress report, please enter the <u>correct class/standard</u> when prompted. Without the correct standard, the report will remain hidden.</p>
-          </div>
           <div className="mt-6">
-            <img src={reportImage} alt="Student Report" className="border shadow" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
+            <img src={reportImage} alt="Student Report" className="borders" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
           </div>
         </div>
       )}

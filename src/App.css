@@ -19,4 +19,12 @@ abbr:hover{
     .heading{
         font-size:18px;
     }
+    .notice-board h2{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:800px){
+    .borders{
+        width: 900px !important;
+    }
 }

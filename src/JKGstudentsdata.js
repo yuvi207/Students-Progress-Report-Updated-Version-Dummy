@@ -1,0 +1,206 @@
+export const students = [
+  {
+    class: "3",
+    password: "BMHSABIN",
+    dob: "",
+    image: "/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSAHAM",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSARJI",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSATHI",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSDHAR",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSDHRI",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSDIYA",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSDURA",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSGOPI",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class: "3",
+    password: "BMHSLAKS",
+    dob: "",
+    image: "/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSLAKS",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSNAVY",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSPRAV",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSPREE",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSRAPI",
+    dob:" ",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSREYA",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSRIDH",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSRITH",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class: "3",
+    password: "BMHSRITH",
+    dob: "",
+    image: "/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSAHI",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSANA",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSARV",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSARV",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSATV",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSHAI",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSHAR",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSHER",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSHIV",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class: "3",
+    password: "BMHSSHIV",
+    dob: "",
+    image: "/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSRIS",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSSUBA",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSTAUF",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSYASW",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"3",
+    password:"BMHSYAVA",
+    dob:"",
+    image:"/reports/dummypage-pic.jpg"
+  }
+]
