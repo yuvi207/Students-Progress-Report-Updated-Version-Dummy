@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { students } from "./STD9studentsdata";
+import { students } from "./studentsdata";
 import "./App.css";
 function App() {
   const [studentClass, setStudentClass] = useState("");
