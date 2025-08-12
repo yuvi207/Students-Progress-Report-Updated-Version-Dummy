@@ -2,205 +2,212 @@ export const students = [
   {
     class: "JKG",
     password: "BMHSABIN",
-    dob: "",
+    dob: "2021-06-09",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSAHAM",
-    dob:"",
+    dob:"2020-10-25",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSARJI",
-    dob:"",
-    image:"/reports/dummypage-pic.jpg"
+    dob:"2021-04-22",
+    image:"/reports/ARJITH-lenin-Written.jpg",
+    image2:"/reports/Arjith-lenin-Oral.jpg"
   },
   {
     class:"JKG",
     password:"BMHSATHI",
-    dob:"",
+    dob:"2021-05-20",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSDHAR",
-    dob:"",
+    dob:"2021-09-04",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSDHRI",
-    dob:"",
+    dob:"2022-01-18",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSDIYA",
-    dob:"",
+    dob:"2021-12-15",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSDURA",
-    dob:"",
+    dob:"2021-05-08",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSGOPI",
-    dob:"",
+    dob:"2021-03-23",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class: "JKG",
     password: "BMHSLAKS",
-    dob: "",
+    dob: "2021-10-31",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSLAKS",
-    dob:"",
+    dob:"2021-05-10",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSNAVY",
-    dob:"",
+    dob:"2021-01-09",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSPRAV",
-    dob:"",
+    dob:"2022-01-02",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSPREE",
-    dob:"",
+    dob:"2021-05-24",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSRAPI",
-    dob:" ",
+    dob:"2020-10-16",
+    image:"/reports/dummypage-pic.jpg"
+  },
+  {
+    class:"JKG",
+    password:"BMHSRATH",
+    dob:"2021-03-24",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSREYA",
-    dob:"",
+    dob:"2021-10-09",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSRIDH",
-    dob:"",
+    dob:"2022-01-02",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSRITH",
-    dob:"",
+    dob:"2021-10-09",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class: "JKG",
     password: "BMHSRITH",
-    dob: "",
+    dob: "2021-02-03",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSAHI",
-    dob:"",
+    dob:"2021-11-15",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSANA",
-    dob:"",
+    dob:"2021-07-30",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSARV",
-    dob:"",
+    dob:"2021-07-31",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSARV",
-    dob:"",
+    dob:"2021-07-31",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSATV",
-    dob:"",
+    dob:"2020-07-12",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSHAI",
-    dob:"",
+    dob:"2023-03-02",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSHAR",
-    dob:"",
+    dob:"2021-07-01",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSHER",
-    dob:"",
+    dob:"2022-01-14",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSHIV",
-    dob:"",
+    dob:"2021-10-19",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class: "JKG",
     password: "BMHSSHIV",
-    dob: "",
+    dob: "2021-03-15",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSRIS",
-    dob:"",
+    dob:"2021-06-30",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSSUBA",
-    dob:"",
+    dob:"2021-11-16",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSTAUF",
-    dob:"",
+    dob:"2021-06-15",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSYASW",
-    dob:"",
+    dob:"2020-11-17",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"JKG",
     password:"BMHSYAVA",
-    dob:"",
+    dob:"2020-12-14",
     image:"/reports/dummypage-pic.jpg"
   }
 ]
