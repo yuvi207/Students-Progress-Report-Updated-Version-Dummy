@@ -17,15 +17,15 @@ export const students = [
     class:"JKG",
     password:"BMHSARJI",
     dob:"2021-04-22",
-    image:"",
-    image2:"/reports/Arjith-lenin-Oral.jpg"
+    image:"/reports/JKG-B/Arjith-lenin-Oral.jpg",
+    image2:"/reports/JKG-B/ARJITH-lenin-Written.jpg"
   },
   {
     class:"JKG",
     password:"BMHSATHI",
     dob:"2021-05-20",
-    image:"/reports/ATHIKASHASRI-Written.jpg",
-    image2:"/reports/ATHIKSHASRI-Oral.jpg"
+    image:"/reports/JKG-B/ATHIKSHASRI-Oral.jpg",
+   image2:"/reports/JKG-B/ATHIKASHASRI-Written.jpg",
   },
   {
     class:"JKG",
@@ -51,7 +51,7 @@ export const students = [
     password:"BMHSDURA",
     dob:"2021-05-08",
     image:"/reports/JKG-A/DuraiNathan-M.S-Oral-Test-Report.jpg",
-    image2:"/"
+    image2:"/reports/JKG-A/Durai Nathan M.S - Written-Test-Report.jpg"
   },
   {
     class:"JKG",
