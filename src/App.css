@@ -14,9 +14,6 @@ abbr{
     text-decoration: unset;
     cursor:pointer;
 }
-abbr:hover{
-    color:navajowhite;
-}
 @media screen and (max-width:320px){
     .heading{
         font-size:18px;

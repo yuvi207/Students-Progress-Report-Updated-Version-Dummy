@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div>
-      <h1 className="heading"><abbr title="BMSAP">Beula Matric's Students' Academic Progress</abbr></h1>
+      <h1 className="heading" style={{color:"red"}}><abbr title="BMSAP">Beula Matric's <span className="colorspan" style={{color:"blue"}}>Students' Academic Progress</span></abbr></h1>
       {!reportImage && (
         <div>
       <form
