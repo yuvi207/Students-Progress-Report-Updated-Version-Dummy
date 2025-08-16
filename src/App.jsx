@@ -74,8 +74,18 @@ function App() {
           {error && <p className="text-red-600 text-sm">{error}</p>}
         </form>
         <div className="notice-board">
-            <h2>Notice to Parents:</h2>
-            <p>To access your child's progress report, please enter the <u>correct class/standard</u> when prompted. Without the correct standard, the report will remain hidden.</p>
+            <h2>Progress report ஐ காண கீழ் தந்துள்ள வழிமுறையைப் பயன்படுத்தவும்</h2>
+            <br />
+            <h3>அன்பிற்கினிய பெற்றோருக்கு, வணக்கம்.</h3>
+            <h4>தங்கள் மகன்/மகளின் மதிப்பெண் பட்டியலை அறிய மொபைலில் காணும் வழிமுறைகள்:</h4>
+            <ul>
+              <li>தங்களுக்கு பள்ளியில் இருந்து WhatsApp-இல் (9487284838) அனுப்பப்பட்ட லிங்க் ஐ கிளிக் செய்யவும்.</li>
+              <li>தங்கள் மகன்/மகள் பயிலும் வகுப்பினை குறிப்பிடவும் (JKG,SKG,1-12).</li>
+              <li>Password: BMS உடன் தங்கள் மகன்/மகளின் பெயரில் உள்ள முதல் நான்கு எழுத்துகளை ஆங்கிலத்தில் (CAPITAL LETTERS) உள்ளிடவும். மூன்று எழுத்துப் பெயருடையவராக இருப்பின், முன்னெழுத்தையும் (initial) நான்காவது எழுத்தாக இணைத்துக் கொள்ளவும்.</li>
+              <li>தங்கள் மகன்/மகளின் பிறந்த தேதியை 01052005 என்ற வடிவில் உள்ளிடவும்.</li>
+              <li>View Report இல் கிளிக் செய்யவும்.</li>
+              <li>இப்போது தங்கள் மகன்/மகளின் ஜூலை மாத Progress Report-ஐ காணலாம்.</li>
+            </ul>
           </div>
         </div>
       )}
