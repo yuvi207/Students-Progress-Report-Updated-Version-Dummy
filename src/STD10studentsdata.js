@@ -159,7 +159,7 @@ export const students = [
     class:"10",
     password:"BMSHARI",
     dob:"24062009",
-    image:"/reports/X-B/HARIASHWIN-PROGRESS-REPORT_page-0001.jpg"
+    image:"/reports/X-B/Hariashwin_page-0001.jpg"
   },
   {
     class:"10",
@@ -303,7 +303,7 @@ export const students = [
     class:"10",
     password:"BMSSANT",
     dob:"01042011",
-    image:"/reports/X-B/SANTHOSH.S-PROGRESS-REPORT_page-0001.jpg"
+    image:"/reports/X-B/Santhosh-_page-0001.jpg"
   },
   {
     class:"10",
