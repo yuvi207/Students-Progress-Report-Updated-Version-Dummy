@@ -73,9 +73,10 @@ function App() {
           </button>
           {error && <p className="text-red-600 text-sm">{error}</p>}
         </form>
+        <br />
         <div className="notice-board">
+          <br />
             <h2>Progress report ஐ காண கீழ் தந்துள்ள வழிமுறையைப் பயன்படுத்தவும்</h2>
-            <br />
             <h3>அன்பிற்கினிய பெற்றோருக்கு, வணக்கம்.</h3>
             <h4>தங்கள் மகன்/மகளின் மதிப்பெண் பட்டியலை அறிய மொபைலில் காணும் வழிமுறைகள்:</h4>
             <ul>
