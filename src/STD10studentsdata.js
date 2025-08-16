@@ -129,7 +129,7 @@ export const students = [
     class:"10",
     password:"BMSDHYA",
     dob:"12112010",
-    image:"/reports/X-A/DHYANA_page-0001.jpg"
+    image:"/reports/X-A/DHYANA_page-0001 (1).jpg"
   },
   {
     class:"10",
