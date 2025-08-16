@@ -87,6 +87,7 @@ function App() {
               <li>View Report இல் கிளிக் செய்யவும்.</li>
               <li>இப்போது தங்கள் மகன்/மகளின் ஜூலை மாத Progress Report-ஐ காணலாம்.</li>
             </ul>
+            <br />
           </div>
         </div>
       )}
