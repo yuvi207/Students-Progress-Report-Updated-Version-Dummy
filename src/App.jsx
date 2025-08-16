@@ -55,7 +55,7 @@ function App() {
           />
           <br/>
           <br />
-          <label htmlFor="student-dob">Enter your child's dob : </label>
+          <label htmlFor="student-dob">Enter your child's DOB : </label>
           <input
             className="border p-2 w-full" required
             type="text"
