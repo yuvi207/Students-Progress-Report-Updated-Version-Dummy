@@ -58,7 +58,8 @@ function App() {
           <label htmlFor="student-dob">Enter your child's dob : </label>
           <input
             className="border p-2 w-full" required
-            type="date"
+            type="text"
+            placeholder="DDMMYYYY"
             value={dob}
             onChange={(e) => setDob(e.target.value)}
           />

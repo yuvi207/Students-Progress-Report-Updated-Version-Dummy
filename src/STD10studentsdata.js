@@ -2,343 +2,343 @@ export const students = [
   {
     class: "10",
     password: "BMHSAADE",
-    dob: "2010-04-03",
-    image: "/reports/X-B/ADESHKUMAR-PROGRESS-REPORT_page-0001.jpg"
+    dob: "03042010",
+    image: "/reports/X-B/AADESH_page-0001.jpg"
   },
   {
     class: "10",
     password: "BMHSABIL",
-    dob: "2010-02-10",
+    dob: "10022010",
     image:"/reports/X-B/ABILASH-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class: "10",
     password: "BMHSABIN",
-    dob: "2010-04-21",
+    dob: "21042010",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSADHI",
-    dob:"2010-02-24",
+    dob:"24022010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSAGNE",
-    dob:"2010-04-03",
+    dob:"03042010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSAISW",
-    dob:"2008-06-12",
+    dob:"12062008",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSAKSH",
-    dob:"2010-08-06",
+    dob:"06082010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class: "10",
     password: "BMHSANDR",
-    dob: "2010-08-21",
+    dob: "21082010",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSANUS",
-    dob:"2009-11-30",
+    dob:"30112009",
     image:"/reports/X-B/ANUSH.V-PROGRESS-REPORT_page-0001.jpg" 
   },
   {
     class:"10",
     password:"BMHSARUN",
-    dob:"2010-04-07",
+    dob:"07042010",
     image:"/reports/X-B/ARUNKUMAR.E-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSASMI",
-    dob:"2010-03-20",
+    dob:"20032010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSASNA",
-    dob:"2010-06-29",
+    dob:"29062010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class: "10",
     password: "BMHSASVI",
-    dob: "2011-04-05",
+    dob: "05042011",
     image: "/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSATCH",
-    dob:"2010-03-07",
+    dob:"07032010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSBALA",
-    dob:"2010-11-03",
+    dob:"03112010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSBHAV",
-    dob:"2010-11-03",
+    dob:"03112010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSBOWN",
-    dob:"2011-02-27",
+    dob:"27022011",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSDARS",
-    dob:"2010-08-09",
+    dob:"09082010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSDEEP",
-    dob:"2010-11-03",
+    dob:"03112010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSDHAR",
-    dob:"2010-04-12",
+    dob:"12042010",
     image:"/reports/X-B/DHARSHAN.K-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSDHAR",
-    dob:"2010-10-31",
-    image:"/reports/X-B/DHARSHAN.S-PROGRESS-REPORT_page-0001 (1).jpg"
+    dob:"31102010",
+    image:"/reports/X-B/DHARSHAN_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSDHYA",
-    dob:"2010-11-12",
+    dob:"12112010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSESTH",
-    dob:"2011-02-02",
+    dob:"02022011",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSFATH",
-    dob:"2010-09-29",
+    dob:"29092010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSFATH",
-    dob:"2010-04-09",
+    dob:"09042010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSGOMA",
-    dob:"2010-08-12",
+    dob:"12082010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSHARI",
-    dob:"2009-06-24",
+    dob:"24062009",
     image:"/reports/X-B/HARIASHWIN-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSHARI",
-    dob:"2010-07-03",
+    dob:"03072010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class: "10",
     password: "BMHSHARS",
-    dob: "2010-12-23",
-    image: "/reports/X-B/HARSHIL-PROGRESS-REPORT_page-0001.jpg"
+    dob: "23122010",
+    image: "/reports/X-B/HARSHIL_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSHASI",
-    dob:"2011-06-01",
+    dob:"01062011",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSJEYA",
-    dob:"2009-11-27",
-    image:"/reports/X-B/JEYARAJ.L-PROGRESS-REPORT_page-0001 (1).jpg"
+    dob:"27112009",
+    image:"/reports/X-B/JEYARAJ_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSKANI",
-    dob:"2010-01-18",
+    dob:"18012010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSMADH",
-    dob:"2010-07-12",
+    dob:"12072010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSMANI",
-    dob:"2010-05-08",
+    dob:"08052010",
     image:"/reports/X-B/MANIKANDAN.Y-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSMADH",
-    dob:"2010-10-09",
+    dob:"09102010",
     image:"/reports/X-B/MADHAN.S-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSMONI",
-    dob:"2009-11-11",
+    dob:"11112009",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSSNAVE",
-    dob:"2009-02-07",
-    image:"/reports/X-B/NAVEEN-PROGRESS-REPORT_page-0001 (1).jpg"
+    dob:"07022009",
+    image:"/reports/X-B/NAVEEN_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSNIVE",
-    dob:"2010-05-27",
+    dob:"27052010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSPAUL",
-    dob:"2009-05-08",
+    dob:"08052009",
     image:"/reports/X-B/Paul-Stephen-Selvakumar-Progress-Report_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSPRAN",
-    dob:"2010-11-03",
-    image:"/reports/X-B/PRANAV-PROGRESS-REPORT_page-0001.jpg"
+    dob:"03112010",
+    image:"/reports/X-B/PRANAV_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSPRIY",
-    dob:"2011-02-11",
+    dob:"11022011",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSPUSH",
-    dob:"2011-04-17",
+    dob:"17042011",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSRAKA",
-    dob:"2010-10-09",
+    dob:"09102010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSRAMY",
-    dob:"2010-07-18",
+    dob:"18072010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSRAVI",
-    dob:"2010-12-02",
+    dob:"02122010",
     image:"/reports/X-B/RAVIKIRAN-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSRITH",
-    dob:"2010-12-19",
+    dob:"19122010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSRUTH",
-    dob:"2010-03-05",
+    dob:"05032010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSSABA",
-    dob:"2010-09-06",
+    dob:"06092010",
     image:"/reports/X-B/SABARI-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSAIP",
-    dob:"2010-07-03",
-    image:"/reports/X-B/SAIPRASATH-PROGRESS-REPORT_page-0001.jpg"
+    dob:"03072010",
+    image:"/reports/X-B/SAI_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSANJ",
-    dob:"2010-06-29",
-    image:"/reports/X-B/SANJAY.R-PROGRESS-REPORT_page-0001.jpg"
+    dob:"29062010",
+    image:"/reports/X-B/SANJAY_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSANT",
-    dob:"2011-04-01",
+    dob:"01042011",
     image:"/reports/X-B/SANTHOSH.S-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSARA",
-    dob:"2010-08-12",
+    dob:"12082010",
     image:"/reports/X-B/SARATH-DEVAN-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSATH",
-    dob:"2011-02-07",
+    dob:"07022011",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSSTAC",
-    dob:"2010-11-15",
+    dob:"15112010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSSWEA",
-    dob:"2010-05-24",
+    dob:"24052010",
     image:"/reports/dummypage-pic.jpg"
   },
   {
     class:"10",
     password:"BMHSTARA",
-    dob:"2009-08-10",
-    image:"/reports/X-B/TARANATH.A-PROGRESS-REPORT_page-0001 (1).jpg"
+    dob:"10082009",
+    image:"/reports/X-B/TARANATH_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSVISH",
-    dob:"2011-02-24",
+    dob:"24022011",
     image:"/reports/dummypage-pic.jpg"
   }
 ]
