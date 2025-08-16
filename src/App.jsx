@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { students } from "./JKGstudentsdata";
+import { students } from "./STD10studentsdata";
 import "./App.css";
 function App() {
   const [studentClass, setStudentClass] = useState("");
@@ -21,7 +21,6 @@ function App() {
     if (student) {
       setReportImage(student.image);
       setError("");
-      setReportImage(student.image2);
     } else {
       setReportImage(null);
       setError("Invalid details. Please try again.");
@@ -84,7 +83,6 @@ function App() {
         <div>
           <div className="mt-6">
             <img src={reportImage} alt="Student Report" className="borders" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
-             <img src={reportImage} alt="Student Report" className="borders" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
           </div>
         </div>
       )}

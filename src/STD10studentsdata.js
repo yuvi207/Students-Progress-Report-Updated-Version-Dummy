@@ -3,13 +3,13 @@ export const students = [
     class: "10",
     password: "BMHSAADE",
     dob: "2010-04-03",
-    image: "/reports/dummypage-pic.jpg"
+    image: "/reports/X-B/ADESHKUMAR-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class: "10",
     password: "BMHSABIL",
     dob: "2010-02-10",
-    image: "/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/ABILASH-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class: "10",
@@ -51,13 +51,13 @@ export const students = [
     class:"10",
     password:"BMHSANUS",
     dob:"2009-11-30",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/ANUSH.V-PROGRESS-REPORT_page-0001.jpg" 
   },
   {
     class:"10",
     password:"BMHSARUN",
     dob:"2010-04-07",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/ARUNKUMAR.E-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -117,13 +117,13 @@ export const students = [
     class:"10",
     password:"BMHSDHAR",
     dob:"2010-04-12",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/DHARSHAN.K-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSDHAR",
     dob:"2010-10-31",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/DHARSHAN.S-PROGRESS-REPORT_page-0001 (1).jpg"
   },
   {
     class:"10",
@@ -159,7 +159,7 @@ export const students = [
     class:"10",
     password:"BMHSHARI",
     dob:"2009-06-24",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/HARIASHWIN-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -171,7 +171,7 @@ export const students = [
     class: "10",
     password: "BMHSHARS",
     dob: "2010-12-23",
-    image: "/reports/dummypage-pic.jpg"
+    image: "/reports/X-B/HARSHIL-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -183,7 +183,7 @@ export const students = [
     class:"10",
     password:"BMHSJEYA",
     dob:"2009-11-27",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/JEYARAJ.L-PROGRESS-REPORT_page-0001 (1).jpg"
   },
   {
     class:"10",
@@ -201,13 +201,13 @@ export const students = [
     class:"10",
     password:"BMHSMANI",
     dob:"2010-05-08",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/MANIKANDAN.Y-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
-    password:"BMHSMATH",
+    password:"BMHSMADH",
     dob:"2010-10-09",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/MADHAN.S-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -219,7 +219,7 @@ export const students = [
     class:"10",
     password:"BMHSSNAVE",
     dob:"2009-02-07",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/NAVEEN-PROGRESS-REPORT_page-0001 (1).jpg"
   },
   {
     class:"10",
@@ -231,13 +231,13 @@ export const students = [
     class:"10",
     password:"BMHSPAUL",
     dob:"2009-05-08",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/Paul-Stephen-Selvakumar-Progress-Report_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSPRAN",
     dob:"2010-11-03",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/PRANAV-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -267,7 +267,7 @@ export const students = [
     class:"10",
     password:"BMHSRAVI",
     dob:"2010-12-02",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/RAVIKIRAN-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -285,25 +285,31 @@ export const students = [
     class:"10",
     password:"BMHSSABA",
     dob:"2010-09-06",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/SABARI-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSAIP",
     dob:"2010-07-03",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/SAIPRASATH-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSANJ",
     dob:"2010-06-29",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/SANJAY.R-PROGRESS-REPORT_page-0001.jpg"
+  },
+  {
+    class:"10",
+    password:"BMHSSANT",
+    dob:"2011-04-01",
+    image:"/reports/X-B/SANTHOSH.S-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
     password:"BMHSSARA",
     dob:"2010-08-12",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/SARATH-DEVAN-PROGRESS-REPORT_page-0001.jpg"
   },
   {
     class:"10",
@@ -327,7 +333,7 @@ export const students = [
     class:"10",
     password:"BMHSTARA",
     dob:"2009-08-10",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/X-B/TARANATH.A-PROGRESS-REPORT_page-0001 (1).jpg"
   },
   {
     class:"10",
