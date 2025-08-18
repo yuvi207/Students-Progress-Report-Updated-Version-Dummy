@@ -549,7 +549,7 @@ export const students = [
     class:"12",
     password:"BMSMOHA",
     dob:"27122008",
-    image:"/reports/XII-A/SHIYAL_page-0001 (1).jpg"
+    image:"/reports/XII-A/SHIYAL_page-0001 (2).jpg"
   },
   {
     class:"12",
