@@ -555,7 +555,7 @@ export const students = [
     class:"12",
     password:"BMSMUHA",
     dob:"19052008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-A/AFSAL_page-0001.jpg"
   },
   {
     class:"12",
