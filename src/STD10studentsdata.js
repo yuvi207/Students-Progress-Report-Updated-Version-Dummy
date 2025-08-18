@@ -435,7 +435,7 @@ export const students = [
     class:"12",
     password:"BMSDHAR",
     dob:"06022008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/DHARSHNY_page-0001.jpg"
   },
   {
     class:"12",
@@ -465,7 +465,7 @@ export const students = [
     class:"12",
     password:"BMSGODL",
     dob:"04082008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/GODLIN_page-0001.jpg"
   },
   {
     class:"12",
@@ -525,7 +525,7 @@ export const students = [
     class:"12",
     password:"BMSLIYA",
     dob:"22092008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/LIYA_page-0001.jpg"
   },
   {
     class:"12",
@@ -537,7 +537,7 @@ export const students = [
     class:"12",
     password:"BMSMARI",
     dob:"21122008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/MARI_page-0001.jpg"
   },
   {
     class:"12",
@@ -549,7 +549,7 @@ export const students = [
     class:"12",
     password:"BMSMOHA",
     dob:"27122008",
-    image:"/reports/XII-A/SHIYAL_page-0001.jpg"
+    image:"/reports/XII-A/SHIYAL_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -573,19 +573,19 @@ export const students = [
     class:"12",
     password:"BMSNIRU",
     dob:"06092008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-C/NIRUBASRI_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSNIVE",
     dob:"05112008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/NIVETHA_page-0001.jpg"
   },
   {
     class:"12",
     password:"BMSPAVI",
     dob:"14082008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/PAVI_page-0001.jpg"
   },
   {
     class:"12",
@@ -597,19 +597,19 @@ export const students = [
     class:"12",
     password:"BMSPRAK",
     dob:"09092008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/PRAKLYAA_page-0001.jpg"
   },
   {
     class:"12",
     password:"BMSPRAV",
     dob:"24122008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/PRAVEENA_page-0001.jpg"
   },
   {
     class:"12",
     password:"BMSPREE",
     dob:"11032009",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/PREETHIKA_page-0001.jpg"
   },
   {
     class:"12",
@@ -639,13 +639,13 @@ export const students = [
     class:"12",
     password:"BMSSAND",
     dob:"24022008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/SANDHIYA_page-0001.jpg"
   },
   {
     class:"12",
     password:"BMSSANG",
     dob:"27052008",
-    image:"/reports/dummypage-pic.jpg"
+    image:"/reports/XII-B/SANGEERTHANA_page-0001.jpg"
   },
   {
     class:"12",
