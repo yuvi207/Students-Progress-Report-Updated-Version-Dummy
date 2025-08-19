@@ -489,7 +489,7 @@ export const students = [
     class:"12",
     password:"BMSHRIT",
     dob:"25092008",
-    image:"/reports/XII-C/HRITHIKA_page-0001.jpg"
+    image:"public/reports/XII-C/HRITHIKA_page-0001 (2).jpg"
   },
   {
     class:"12",
