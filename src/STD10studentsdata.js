@@ -632,7 +632,7 @@ export const students = [
   {
     class:"12",
     password:"BMSSAMM",
-    dob:"12022008",
+    dob:"02122008",
     image:"/reports/XII-C/SAM_page-0001.jpg"
   },
   {
