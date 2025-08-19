@@ -345,13 +345,13 @@ export const students = [
     class: "12",
     password: "BMSAARI",
     dob: "19122008",
-    image: "/reports/XII-C/AARISHA_page-0001.jpg"
+    image: "/reports/XII-C/AARISHA_page-0001 (1).jpg"
   },
   {
     class: "12",
     password: "BMSABID",
     dob: "19032009",
-    image: "/reports/XII-B/ABI_page-0001.jpg"
+    image: "/reports/XII-B/ABI_page-0001 (1).jpg"
   },
   {
     class: "12",
@@ -363,13 +363,13 @@ export const students = [
     class:"12",
     password:"BMSAFRI",
     dob:"17032008",
-    image:"/reports/XII-B/AFRIN_page-0001.jpg"
+    image:"/reports/XII-B/AFRIN_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSALFI",
     dob:"03092008",
-    image:"/reports/XII-B/ALFIN_page-0001.jpg"
+    image:"/reports/XII-B/ALFIN_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -381,7 +381,7 @@ export const students = [
     class:"12",
     password:"BMSANLI",
     dob:"08072008",
-    image:"/reports/XII-B/ANLIA_page-0001.jpg"
+    image:"/reports/XII-B/ANLIA_page-0001 (1).jpg"
   },
   {
     class: "12",
@@ -399,7 +399,7 @@ export const students = [
     class:"12",
     password:"BMSBHRA",
     dob:"27122008",
-    image:"/reports/XII-B/BHRAJITH_page-0001.jpg"
+    image:"/reports/XII-B/BHRAJITH_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -411,49 +411,49 @@ export const students = [
     class:"12",
     password:"BMSCLAR",
     dob:"17032008",
-    image:"/reports/XII-B/CLARA_page-0001.jpg"
+    image:"/reports/XII-B/CLARA_page-0001 (2).jpg"
   },
   {
     class: "12",
     password: "BMSDEVI",
     dob: "14102008",
-    image: "/reports/XII-B/DEVI_page-0001.jpg"
+    image: "/reports/XII-B/DEVI_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSDHAN",
     dob:"04062009",
-    image:"/reports/XII-B/DHANU_page-0001.jpg"
+    image:"/reports/XII-B/DHANU_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSDHAR",
     dob:"10032009",
-    image:"/reports/XII-B/DHARSHANA_page-0001.jpg"
+    image:"/reports/XII-B/DHARSHANA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSDHAR",
     dob:"06022008",
-    image:"/reports/XII-B/DHARSHNY_page-0001.jpg"
+    image:"/reports/XII-B/DHARSHNY_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSDURA",
     dob:"04112008",
-    image:"/reports/XII-B/DURAI_page-0001.jpg"
+    image:"/reports/XII-B/DURAI_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSDURG",
     dob:"03012008",
-    image:"/reports/XII-C/DURGA_page-0001.jpg"
+    image:"/reports/XII-C/DURGA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSGEET",
     dob:"11012008",
-    image:"/reports/XII-C/GEETHA_page-0001.jpg"
+    image:"/reports/XII-C/GEETHA_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -465,19 +465,19 @@ export const students = [
     class:"12",
     password:"BMSGODL",
     dob:"04082008",
-    image:"/reports/XII-B/GODLIN_page-0001.jpg"
+    image:"/reports/XII-B/GODLIN_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSGODS",
     dob:"19052009",
-    image:"/reports/XII-C/GODSON_page-0001.jpg"
+    image:"/reports/XII-C/GODSON_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSGOKI",
     dob:"19022009",
-    image:"/reports/XII-C/GOKILA.B_page-0001.jpg"
+    image:"/reports/XII-C/GOKILA.B_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -525,19 +525,19 @@ export const students = [
     class:"12",
     password:"BMSLIYA",
     dob:"22092008",
-    image:"/reports/XII-B/LIYA_page-0001.jpg"
+    image:"/reports/XII-B/LIYA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSLUKE",
     dob:"16072009",
-    image:"/reports/XII-B/LUKESH_page-0001.jpg"
+    image:"/reports/XII-B/LUKESH_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSMARI",
     dob:"21122008",
-    image:"/reports/XII-B/MARI_page-0001.jpg"
+    image:"/reports/XII-B/MARI_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -573,7 +573,7 @@ export const students = [
     class:"12",
     password:"BMSNIRU",
     dob:"06092008",
-    image:"/reports/XII-C/NIRUBASRI_page-0001 (1).jpg"
+    image:"/reports/XII-C/NIRUBASRI_page-0001 (2).jpg"
   },
   {
     class:"12",
@@ -585,7 +585,7 @@ export const students = [
     class:"12",
     password:"BMSPAVI",
     dob:"14082008",
-    image:"/reports/XII-B/PAVI_page-0001.jpg"
+    image:"/reports/XII-B/PAVI_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -597,19 +597,19 @@ export const students = [
     class:"12",
     password:"BMSPRAK",
     dob:"09092008",
-    image:"/reports/XII-B/PRAKLYAA_page-0001.jpg"
+    image:"/reports/XII-B/PRAKLYAA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSPRAV",
     dob:"24122008",
-    image:"/reports/XII-B/PRAVEENA_page-0001.jpg"
+    image:"/reports/XII-B/PRAVEENA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSPREE",
     dob:"11032009",
-    image:"/reports/XII-B/PREETHIKA_page-0001.jpg"
+    image:"/reports/XII-B/PREETHIKA_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -633,25 +633,25 @@ export const students = [
     class:"12",
     password:"BMSSAMM",
     dob:"02122008",
-    image:"/reports/XII-C/SAM_page-0001.jpg"
+    image:"/reports/XII-C/SAM_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSSAND",
     dob:"24022008",
-    image:"/reports/XII-B/SANDHIYA_page-0001.jpg"
+    image:"/reports/XII-B/SANDHIYA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSSANG",
     dob:"27052008",
-    image:"/reports/XII-B/SANGEERTHANA_page-0001.jpg"
+    image:"/reports/XII-B/SANGEERTHANA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSSANK",
     dob:"22012009",
-    image:"/reports/XII-C/SANKAR_page-0001.jpg"
+    image:"/reports/XII-C/SANKAR_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -669,13 +669,13 @@ export const students = [
     class:"12",
     password:"BMSSOUN",
     dob:"06112008",
-    image:"/reports/XII-A/SOUNDARYA_page-0001.jpg"
+    image:"/reports/XII-A/SOUNDARYA_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSSUBA",
     dob:"19062008",
-    image:"/reports/XII-B/SUBASH_page-0001.jpg"
+    image:"/reports/XII-B/SUBASH_page-0001 (1).jpg"
   },
   {
     class:"12",
@@ -687,12 +687,12 @@ export const students = [
     class:"12",
     password:"BMSVETR",
     dob:"02082008",
-    image:"/reports/XII-B/VETRIVEL_page-0001.jpg"
+    image:"/reports/XII-B/VETRIVEL_page-0001 (1).jpg"
   },
   {
     class:"12",
     password:"BMSYATH",
     dob:"19032009",
-    image:"/reports/XII-C/YATHRA_page-0001.jpg"
+    image:"/reports/XII-C/YATHRA_page-0001 (1).jpg"
   }
 ]
