@@ -341,6 +341,276 @@ export const students = [
     dob:"24022011",
     image:"/reports/X-A/VISHALI_page-0001.jpg"
   },
+    {
+    class: "11",
+    password: "BMSAARA",
+    dob: "02072009",
+    image: "/reports/XI-B/AARADHANA_page-0001.jpg"
+  },
+  {
+    class: "11",
+    password: "BMSABIN",
+    dob: "10122009",
+    image: "/reports/XI-A/ABINANDH_page-0001.jpg"
+  },
+  {
+    class: "11",
+    password: "BMSABIS",
+    dob: "23122009",
+    image: "/reports/XI-D/ABISHEK_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSAMAR",
+    dob:"30072009",
+    image:"/reports/XI-A/AMARNATH_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSANUS",
+    dob:"21042009",
+    image:"/reports/XI-A/ANUSHA.P_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSASHO",
+    dob:"26042009",
+    image:"/reports/XI-D/ASHOK_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSBHAR",
+    dob:"13082009",
+    image:"/reports/XI-C/BHARATH_page-0001.jpg"
+  },
+  {
+    class: "11",
+    password: "BMSCHAR",
+    dob: "06112009",
+    image: "/reports/XI-C/CHARU_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSCHAR",
+    dob:"14072009",
+    image:"/reports/XI-D/CHARUKIRUTHIKA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSDANA",
+    dob:"30082009",
+    image:"/reports/XI-B/DANAN_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSDARS",
+    dob:"15112009",
+    image:"/reports/XI-B/DARSHAN_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSDEEP",
+    dob:"29112009",
+    image:"/reports/XI-B/DEEPIKA_page-0001.jpg"
+  },
+  {
+    class: "11",
+    password: "BMSDENN",
+    dob: "19082009",
+    image: "/reports/XI-B/DENNY_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSDESH",
+    dob:"08122008",
+    image:"/reports/XI-A/DESHNA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSFELI",
+    dob:"16022010",
+    image:"/reports/XI-B/FELIX_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSGENI",
+    dob:"04122009",
+    image:"/reports/XI-A/GENSIA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSHAAS",
+    dob:"08082010",
+    image:"/reports/XI-B/HAASHIKA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSHANE",
+    dob:"11062009",
+    image:"/reports/XI-B/HANEENA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSJESS",
+    dob:"06082009",
+    image:"/reports/XI-B/JESSICA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSJEYA",
+    dob:"08022010",
+    image:"/reports/XI-A/JEYA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSKARA",
+    dob:"14062009",
+    image:"/reports/XI-B/KARAN_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSKAVI",
+    dob:"28012009",
+    image:"/reports/XI-B/KAVIYA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSKAVI",
+    dob:"20072009",
+    image:"/reports/XI-C/KAVIYA.P_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSLING",
+    dob:"24012010",
+    image:"/reports/XI-B/LINGESH_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSMEGA",
+    dob:"05112009",
+    image:"/reports/XI-B/MEGA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMHSMOHA",
+    dob:"26022010",
+    image:"/reports/XI-A/SHAFIQ_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMHSNALI",
+    dob:"09042009",
+    image:"/reports/XI-C/NALIN_page-0001.jpg"
+  },
+  {
+    class: "11",
+    password: "BMSNEGA",
+    dob: "11012010",
+    image: "/reports/XI-A/NEGA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSNIDH",
+    dob:"18122009",
+    image:"/reports/XI-B/NIDHA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSNITH",
+    dob:"05092009",
+    image:"/reports/XI-B/NITHISH_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSNIVE",
+    dob:"15122009",
+    image:"/reports/XI-A/NIVETHASREE_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSPONS",
+    dob:"20052009",
+    image:"/reports/XI-A/PON_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSPRAD",
+    dob:"11032009",
+    image:"/reports/XI-B/PRADEEP_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSPRAT",
+    dob:"28022009",
+    image:"/reports/XI-C/PRATHISHA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSPRAV",
+    dob:"02062009",
+    image:"/reports/XI-B/PRAVEENA_page-0001 (2).jpg"
+  },
+  {
+    class:"11",
+    password:"BMSRAJA",
+    dob:"20062009",
+    image:"/reports/XI-A/RAJA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSRITH",
+    dob:"12122009",
+    image:"/reports/XI-C/RITHIKA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSRITH",
+    dob:"08032009",
+    image:"/reports/XI-D/RITHIKA.P_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSANJ",
+    dob:"07052009",
+    image:"/reports/XI-C/SANJAY_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSANT",
+    dob:"23062009",
+    image:"/reports/XI-B/SANTHOSH_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSARA",
+    dob:"16032009",
+    image:"/reports/XI-B/SARA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSHAR",
+    dob:"23042009",
+    image:"/reports/XI-B/SHARNIIKA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSILV",
+    dob:"04012010",
+    image:"/reports/XI-B/SILVIYA_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSRIR",
+    dob:"20102009",
+    image:"/reports/XI-C/SRI_page-0001.jpg"
+  },
+  {
+    class:"11",
+    password:"BMSSURY",
+    dob:"18082009",
+    image:"/reports/XI-A/SURYA_page-0001.jpg"
+  },
   {
     class: "12",
     password: "BMSAARI",
