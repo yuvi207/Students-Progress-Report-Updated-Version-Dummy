@@ -1,4 +1,298 @@
 export const students = [
+    {
+    class: "9",
+    password: "BMSAADH",
+    dob: "01012012",
+    image: "/reports/IX-B/AADHISH_page-0001.jpg"
+  },
+  {
+    class: "9",
+    password: "BMSABIS",
+    dob: "28042011",
+    image: "/reports/IX-B/ABISHEK_page-0001 (1).jpg"
+  },
+  {
+    class: "9",
+    password: "BMSADLY",
+    dob: "13092011",
+    image: "/reports/IX-A/ADLYN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSANJE",
+    dob:"07112011",
+    image:"/reports/IX-A/ANJELIN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSASHI",
+    dob:"11012012",
+    image:"/reports/IX-A/ASHIRA_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSASMA",
+    dob:"25022011",
+    image:"/reports/IX-A/ASMA_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSDEEB",
+    dob:"06032011",
+    image:"/reports/IX-A/DEEBARTHANA_page-0001.jpg"
+  },
+  {
+    class: "9",
+    password: "BMSDEEP",
+    dob: "27012011",
+    image: "/reports/IX-B/DEEPAK_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSDEVA",
+    dob:"11102010",
+    image:"/reports/IX-A/DEVA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSDURG",
+    dob:"23032011",
+    image:"/reports/IX-A/DURGASRI_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSFAIT",
+    dob:"02042011",
+    image:"/reports/IX-A/FAITHLIN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSGOPI",
+    dob:"26082011",
+    image:"/reports/IX-A/GOPIKA_page-0001.jpg"
+  },
+  {
+    class: "9",
+    password: "BMSHARI",
+    dob: "19012011",
+    image: "/reports/IX-A/HARINI_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSHARS",
+    dob:"10012012",
+    image:"/reports/IX-A/HARSHINI_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSJAYA",
+    dob:"28062011",
+    image:"/reports/IX-A/JAYA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSJENI",
+    dob:"18062011",
+    image:"/reports/IX-A/JENISHA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSKART",
+    dob:"22112010",
+    image:"/reports/IX-B/KARTHIK_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSKAVI",
+    dob:"17072011",
+    image:"/reports/IX-B/KAVINESHWARAN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSLEVI",
+    dob:"09072011",
+    image:"/reports/IX-B/LEVIN_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMADH",
+    dob:"19102011",
+    image:"/reports/IX-A/MADHUNISHAMARIYAPPAN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMADH",
+    dob:"20082011",
+    image:"/reports/IX-A/MADHUNISHA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMANJ",
+    dob:"24072011",
+    image:"/reports/IX-A/MANJUSHREE_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMONI",
+    dob:"12052011",
+    image:"/reports/IX-A/MONIKASHREE_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMUHA",
+    dob:"11122011",
+    image:"/reports/IX-B/NIHAL_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMUHA",
+    dob:"06092011",
+    image:"/reports/IX-B/SINAN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSMUTH",
+    dob:"07072012",
+    image:"/reports/IX-A/MUTHU_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSNAYA",
+    dob:"27062011",
+    image:"/reports/IX-A/NAYANA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSNITH",
+    dob:"11102011",
+    image:"/reports/IX-B/NITHIN.V_page-0001.jpg"
+  },
+  {
+    class: "9",
+    password: "BMSPRAD",
+    dob: "20022011",
+    image: "/reports/IX-A/PRADEEKSHANA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSRAGA",
+    dob:"02112011",
+    image:"/reports/IX-A/RAGANA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSRAGU",
+    dob:"11062011",
+    image:"/reports/IX-B/REGUNANDHAN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSRAHU",
+    dob:"03032011",
+    image:"/reports/IX-B/RAHULVASANTH_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSRITH",
+    dob:"05042011",
+    image:"/reports/IX-B/RITHIK.F_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSROHI",
+    dob:"18042011",
+    image:"/reports/IX-B/ROHITH_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSAAD",
+    dob:"04112011",
+    image:"/reports/IX-A/SAADHANA_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSACH",
+    dob:"15032010",
+    image:"/reports/IX-B/SACHIN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSANJ",
+    dob:"04122009",
+    image:"/reports/IX-B/SANJAYRAJ_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSANJ",
+    dob:"25062011",
+    image:"/reports/IX-B/SANJAY_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSARA",
+    dob:"21072011",
+    image:"/reports/IX-B/SARAN_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSHAM",
+    dob:"20032011",
+    image:"/reports/IX-A/SHAMINI_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSHAR",
+    dob:"30092011",
+    image:"/reports/IX-A/SHARONPRESCILLA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSRIR",
+    dob:"24122010",
+    image:"/reports/IX-B/SRI_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSUBA",
+    dob:"29082010",
+    image:"/reports/IX-B/SUBASH_page-0001 (2).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSUBA",
+    dob:"24052011",
+    image:"/reports/IX-A/SUBASHREE_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSUKA",
+    dob:"02052011",
+    image:"/reports/IX-B/SUKAS_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSUMI",
+    dob:"10052011",
+    image:"/reports/IX-A/SUMITHRA_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSSUYA",
+    dob:"08112011",
+    image:"/reports/IX-B/SUYAMBU_page-0001.jpg"
+  },
+  {
+    class:"9",
+    password:"BMSVAAN",
+    dob:"23082011",
+    image:"/reports/IX-A/VAANUSHREE_page-0001 (1).jpg"
+  },
+  {
+    class:"9",
+    password:"BMSYASI",
+    dob:"18052011",
+    image:"/reports/IX-A/YASHIKA_page-0001.jpg"
+  },
   {
     class: "10",
     password: "BMSAADE",
