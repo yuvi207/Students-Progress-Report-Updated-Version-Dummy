@@ -107,7 +107,7 @@ export const students = [
   {
     class:"JKG",
     password:"BMSSHAI",
-    dob:"02032023",
+    dob:"02032021",
     image:"/reports/JKG-A/JKG-A-ORAL/SHAI-ORAL_page-0001.jpg",
     image2:"/reports/JKG-A/JKG-A-WRITTEN/SHAI-Written_page-0001.jpg"
   },
