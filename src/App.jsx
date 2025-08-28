@@ -5,7 +5,7 @@ function App() {
   const [studentClass, setStudentClass] = useState("");
   const [password, setPassword] = useState("");
   const [dob, setDob] = useState("");
-  const [reportImage, setReportImage] = useState(null);
+  const [reportImage, setReportImage] = useState([]);
   const [error, setError] = useState("");
 
   const handleSubmit = (e) => {
@@ -19,10 +19,23 @@ function App() {
     );
 
     if (student) {
-      setReportImage(student.image);
-      setError("");
+      const images=[];
+      if(student.image){
+        images.push(student.image);
+      }
+      if(student.image2){
+        images.push(student.image2);
+      }
+      if(images.length>0){
+        setReportImage(images);
+        setError("");
+      }
+      else{
+        setReportImage([]);
+        setError("No report images available for this student");
+      }
     } else {
-      setReportImage(null);
+      setReportImage([]);
       setError("Invalid details. Please try again.");
     }
   };
@@ -30,7 +43,7 @@ function App() {
   return (
     <div>
       <h1 className="heading" style={{color:"red"}}><abbr title="BMSAP">Beula Matric's <span className="colorspan" style={{color:"blue"}}>Students' Academic Progress</span></abbr></h1>
-      {!reportImage && (
+      {reportImage.length===0 && (
         <div>
       <form
           onSubmit={handleSubmit}
@@ -91,10 +104,14 @@ function App() {
         </div>
       )}
 
-      {reportImage && (
+      {reportImage.length>0 && (
         <div>
           <div className="mt-6">
-            <img src={reportImage} alt="Student Report" className="borders" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>
+            {reportImage.map((img, index) => (
+            <img
+              key={index}
+              src={img}
+         alt="Student Report" className="borders" style={{maxWidth:"100%",border:"1px solid #ccc"}}/>))}
           </div>
         </div>
       )}
