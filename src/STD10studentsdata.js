@@ -505,7 +505,7 @@ export const students = [
   },
   {
     class:"SKG",
-    password:"BMSPANU",
+    password:"BMSANUP",
     dob:"26032020",
     image:"/reports/SKG-B/SKG-B-ORAL/ANU-ORAL_page-0001.jpg",
     image2:"/reports/SKG-B/SKG-B-Written/ANU_page-0001.jpg"
@@ -1280,7 +1280,7 @@ export const students = [
   {
     class:"3",
     password:"BMSLITH",
-    dob:"11062008",
+    dob:"11062018",
     image:"/reports/III-A/LITH_page-0001.jpg"
   },
   {
