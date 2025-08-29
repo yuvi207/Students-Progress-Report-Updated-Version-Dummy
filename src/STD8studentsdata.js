@@ -1,314 +1,314 @@
 export const students = [
   {
     class: "8",
-    password: "BMHABIS",
-    dob: "2008-12-08",
-    image: "/reports/dummypage-pic.jpg"
+    password: "BMSADLI",
+    dob: "29112012",
+    image: "/reports/VIII-A/ADLINE_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSADLI",
-    dob:"2012-11-29",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSAHAL",
+    dob:"17082012",
+    image:"/reports/VIII-A/AHALYA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSAHAL",
-    dob:"2012-08-17",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSAISH",
+    dob:"26092011",
+    image:"/reports/VIII-A/AISH_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSAISH",
-    dob:"2011-09-26",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSBHAV",
+    dob:"04012013",
+    image:"/reports/VIII-A/BHAVA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSAJIT",
-    dob:"2012-05-01",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSDHAN",
+    dob:"19042011",
+    image:"/reports/VIII-A/DHANU_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSAKIL",
-    dob:"2012-10-08",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSDHAR",
+    dob:"29062012",
+    image:"/reports/VIII-A/DHARANI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSAKSH",
-    dob:"2012-04-04",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSGOBI",
+    dob:"22112012",
+    image:"/reports/VIII-A/GOBIKA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSALAN",
-    dob:"2011-12-22",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSHARS",
+    dob:"01082012",
+    image:"/reports/VIII-A/HARSHINI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSANUD",
-    dob:"2012-10-04",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSHASI",
+    dob:"11092012",
+    image:"/reports/VIII-A/HASIKA_page-0001.jpg"
   },
   {
     class: "8",
-    password: "BMHSASHV",
-    dob: "2011-09-10",
-    image: "/reports/dummypage-pic.jpg"
+    password: "BMSHATI",
+    dob: "30082012",
+    image: "/reports/VIII-A/HATITA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSASHW",
-    dob:"2012-01-05",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSKANI",
+    dob:"01122012",
+    image:"/reports/VIII-A/KANI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSBHAV",
-    dob:"2013-01-04",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSKAVI",
+    dob:"22022013",
+    image:"/reports/VIII-A/KAVI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSBROS",
-    dob:"2011-09-27",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSMALA",
+    dob:"28012013",
+    image:"/reports/VIII-A/MALAR_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSCHIT",
-    dob:"2012-10-27",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSNITH",
+    dob:"15112012",
+    image:"/reports/VIII-A/NITHYA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSDARS",
-    dob:"2012-06-30",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSRAGA",
+    dob:"11102011",
+    image:"/reports/VIII-A/RAGA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSDEVA",
-    dob:"2011-07-10",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSRAKS",
+    dob:"16102012",
+    image:"/reports/VIII-A/RAKSHEETHA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSDHAN",
-    dob:"2011-04-19",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSRESH",
+    dob:"01062012",
+    image:"/reports/VIII-A/RESHMA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSDHAR",
-    dob:"2012-06-29",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSSATH",
+    dob:"06082012",
+    image:"/reports/VIII-A/SATHANA_page-0001.jpg"
   },
   {
     class: "8",
-    password: "BMHSDHAR",
-    dob: "2012-06-01",
-    image: "/reports/dummypage-pic.jpg"
+    password: "BMSSATH",
+    dob: "11032012",
+    image: "/reports/VIII-A/SATHIA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSGOBI",
-    dob:"2012-11-22",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSSRUR",
+    dob:"24032012",
+    image:"/reports/VIII-A/SRUTHI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSHARI",
-    dob:"2012-02-12",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSSWEA",
+    dob:"19022012",
+    image:"/reports/VIII-A/SWETHA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSHARS",
-    dob:"2012-08-01",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSTHAN",
+    dob:"24092012",
+    image:"/reports/VIII-A/THANSHIKA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSHASI",
-    dob:"2012-09-11",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSTHIH",
+    dob:"10102012",
+    image:"/reports/VIII-A/THIHASHNI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSHATI",
-    dob:"2012-08-30",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSYAZH",
+    dob:"08052012",
+    image:"/reports/VIII-A/YAZHINI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSKANI",
-    dob:"2012-12-01",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSABIS",
+    dob:"08122011",
+    image:""
   },
   {
     class:"8",
-    password:"BMHSKAVI",
-    dob:"2013-02-22",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSAJIT",
+    dob:"01052012",
+    image:""
   },
   {
     class:"8",
-    password:"BMHSMALA",
-    dob:"2013-01-28",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSAKIL",
+    dob:"08102012",
+    image:""
   },
   {
     class:"8",
-    password:"BMHSMIDH",
-    dob:"2012-09-14",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSAKSH",
+    dob:"04042012",
+    image:"/reports/VIII-B/ABI_page-0001.jpg"
   },
   {
     class: "8",
-    password: "BMHSMOHA",
-    dob: "2012-05-03",
-    image: "/reports/dummypage-pic.jpg"
+    password: "BMSALAN",
+    dob: "22122011",
+    image: "/reports/VIII-B/ALAN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSMOHA",
-    dob:"2012-02-19",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSANUD",
+    dob:"04102012",
+    image:"/reports/VIII-B/ANU_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSMUHA",
-    dob:"2011-12-06",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSASHW",
+    dob:"05012012",
+    image:"/reports/VIII-B/ASHWIN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSMURU",
-    dob:"2012-06-25",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSASHV",
+    dob:"10092011",
+    image:"/reports/VIII-B/ASHVIN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSNAVE",
-    dob:"2012-05-07",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSBROS",
+    dob:"27092011",
+    image:"/reports/VIII-B/BRO_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSNIKH",
-    dob:"2012-10-18",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSCHIT",
+    dob:"27102012",
+    image:"/reports/VIII-B/CHIT_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSNITH",
-    dob:"2013-08-01",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSDEVA",
+    dob:"10072011",
+    image:"/reports/VIII-B/DEVA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSNITH",
-    dob:"2012-11-15",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSDARS",
+    dob:"30062012",
+    image:"/reports/VIII-B/DHARSHAN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSPRAV",
-    dob:"2013-01-10",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSHARI",
+    dob:"12022012",
+    image:"/reports/VIII-B/HARI_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSRAGA",
-    dob:"2011-10-11",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSMIDH",
+    dob:"14092012",
+    image:"/reports/VIII-B/MIDHUN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSRAKS",
-    dob:"2012-10-16",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSMOHA",
+    dob:"03052012",
+    image:"/reports/VIII-B/ANSHIF_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSRAMB",
-    dob:"2011-12-20",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSMOHA",
+    dob:"19022012",
+    image:"/reports/VIII-B/AASIL_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSRESH",
-    dob:"2012-06-01",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSMUHA",
+    dob:"06122011",
+    image:"/reports/VIII-B/MUSTHAFA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSSATH",
-    dob:"2012-08-06",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSNAVE",
+    dob:"07052012",
+    image:"/reports/VIII-B/NAVEEN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSSATH",
-    dob:"2012-03-11",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSNIKH",
+    dob:"18102012",
+    image:"/reports/VIII-B/NIKHIL_page-0001.jpg"
   },
     {
     class:"8",
-    password:"BMHSSIVA",
-    dob:"2012-03-15",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSNITH",
+    dob:"08012013",
+    image:"/reports/VIII-B/NITHIN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSSIVA",
-    dob:"2012-11-24",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSPRAV",
+    dob:"10012013",
+    image:"/reports/VIII-B/PRAVEEN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSSRUT",
-    dob:"2012-03-24",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSRAMB",
+    dob:"20122011",
+    image:"/reports/VIII-B/RAM_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSSWEA",
-    dob:"2012-02-19",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSSIVA",
+    dob:"24112012",
+    image:"/reports/VIII-B/SIVA_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSTHAN",
-    dob:"2012-09-24",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSSIVA",
+    dob:"15032012",
+    image:"/reports/VIII-B/SIVA.N_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSTHIH",
-    dob:"2012-10-10",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSTHIR",
+    dob:"23022012",
+    image:"/reports/VIII-B/THIRU_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSTHIR",
-    dob:"2012-02-23",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSVARU",
+    dob:"10122011",
+    image:"/reports/VIII-B/VARUN_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSVARU",
-    dob:"2011-12-10",
-    image:"/reports/dummypage-pic.jpg"
+    password:"BMSDHAR",
+    dob:"01062012",
+    image:"/reports/VIII-B/DHAR_page-0001.jpg"
   },
   {
     class:"8",
-    password:"BMHSYAZH",
-    dob:"2012-05-08",
-    image:"/reports/dummypage-pic.jpg"
-  },
-];
+    password:"BMSMURU",
+    dob:"25062012",
+    image:"/reports/VIII-B/MURUGAVEL_page-0001.jpg"
+  }
+]
