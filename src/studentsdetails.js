@@ -1757,12 +1757,6 @@ export const students = [
     dob:"08112012",
     image:"/reports/VII-A/AARADHYA.E_page-0001.jpg"
   },
-  {class:"7",
-    password:"BMSSURE",
-    dob:"ddmmyyy",
-    image:"/reports/VIII-A/AHALYA_page-0001.jpg"
-
-  },
   {
     class:"7",
     password:"BMSAATH",
